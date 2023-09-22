@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-Welcome to the Fantasy Cricket Game built with PyQt5 for the front end, Python for the backend, and MySQL for the database! This README provides information on how to set up, run, and use the application. The Fantasy Cricket Game allows users to create and manage their own fantasy cricket teams, select players, and compete against other users' teams.
+Welcome to the Fantasy Cricket Game built with PyQt5 for the front end, Python for the backend, and MySQL for the database, for the Internshala Programming with Python final assignment. This README provides information on how to set up, run, and use the application. The Fantasy Cricket Game allows users to create and manage their own fantasy cricket teams, select players, and compete against other users' teams.
 
 ## 2. Prerequisites
 
